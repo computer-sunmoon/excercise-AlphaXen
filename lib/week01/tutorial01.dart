@@ -3,6 +3,6 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(
     const Center
-    (child: Text,)
-  )
+    (child: Text(key: 'Helllo, World!',
+    )
 }
