@@ -9,4 +9,5 @@ void main() {
         style: TextStyle(fontSize: 32, color: Colors.white),
       ),
     ),
+  );
 }
